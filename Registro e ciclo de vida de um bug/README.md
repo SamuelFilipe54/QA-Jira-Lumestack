@@ -1,0 +1,1 @@
+3° exercício, focado em escrita correta de bug report e desenvolver entendimento do ciclo de vida do defeito. Aqui fiz um bug report já baseado no erro que simulei quando fazia a validação de login da Magazine Luiza. 
